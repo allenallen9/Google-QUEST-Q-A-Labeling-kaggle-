@@ -1,7 +1,7 @@
 # Kaggle Competition, Google QUEST Q&A Labeling
 
 ## Introduction
-Kaggle Competition, Google QUEST Q&A Labeling  
+Kaggle Competition, Google QUEST Q&A Labeling (https://www.kaggle.com/c/google-quest-challenge)  
 Implement by finetuning BERT model with two additional dense layers for labeling purpose  
 
 ## Environment
